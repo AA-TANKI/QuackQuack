@@ -1,6 +1,6 @@
 # QuackQuack
 # Why did i make this specific app
-### Well i always had a `problem` where if i want to open my **whatsupp** on the computer i'd need to connect it and sync and alot of stuff so i decided to make this `app` to solve this issue now you can `login` using your `phone number` and `password`.
+### Well i always had a `problem` where if i want to open my **whatsapp** on the computer i'd need to connect it and sync and alot of stuff so i decided to make this `app` to solve this issue now you can `login` using your `phone number` and `password`.
 # How it works
 ### As I said before you can sign up with the `password` and `phone number`. And then you can send `messages` to other users.
 # Additional feutures
